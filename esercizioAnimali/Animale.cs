@@ -1,4 +1,4 @@
-﻿public abstract class Animale
+﻿public abstract class Animale :IAnimale
 {
     public abstract void Verso();
     public abstract void Muoversi();

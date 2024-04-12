@@ -8,11 +8,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Cane cane = new Cane();
+        Animale cane = new Cane();
         cane.Verso();
         cane.Muoversi();
 
-        Gatto gatto = new Gatto();
+        Animale gatto = new Gatto();
         gatto.Verso();
         gatto.Muoversi();
     }
