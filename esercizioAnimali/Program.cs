@@ -16,4 +16,8 @@ class Program
         gatto.Verso();
         gatto.Muoversi();
     }
+
+    //List<IAnimale> animali = new List<IAnimale>();
+
+    //List<Animale> listaAnimali = new List<Animale>();
 }

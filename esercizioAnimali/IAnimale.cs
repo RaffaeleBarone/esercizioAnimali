@@ -8,4 +8,6 @@ public interface IAnimale
 {
     void Verso();
     void Muoversi();
+
+    
 }
